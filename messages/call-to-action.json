@@ -1,0 +1,10 @@
+{
+	"text": "Let's get started. Shall we?",
+	"quick_replies": [{
+		"content_type": "text",
+		"title": "locations",
+		"payload": "LOCATIONS_PAYLOAD"
+	}, {
+		"content_type": "location"
+	}]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "center_id" : "001",
+    "center_name" : "iHub",
+    "center_location" : "Galana Road / Lenana Road Junction",
+    "longitude" : "36.783148",
+    "latitude" : "-1.289296",
+    "center_image" : "https://ihub.co.ke/uploads/images/2017/03/591472a944fd0.jpg",
+    "center_number":"+254 728 970136"
+  },
+  {
+    "center_id" : "002",
+    "center_name" : "BitHub.Africa CO-WORK",
+    "center_location" : "Karandini Rd, Nairobi",
+    "longitude" : "36.7566859",
+    "latitude" : "-1.299272",
+    "center_image" : "https://scontent.xx.fbcdn.net/v/t1.0-9/18118757_1605532989486662_4465249274819136736_n.jpg?oh=9bedf9cb68fed69d84fcdce29594038e&oe=5A6A1CAD",
+    "center_number":"+254 20 387185"
+  },
+  {
+    "center_id" : "003",
+    "center_name" : "Nailab",
+    "center_location" : "4th Floor, Bishop Magua Centre, George Padmore Ln, Nairob",
+    "longitude" : "36.79088",
+    "latitude" : "-1.299082",
+    "center_image" : "http://cdn.nailab.co.ke/uploads/blog/nailab-staff-season-4.jpg",
+    "center_number":" +254 720 639933"
+  },
+  {
+    "center_id" : "004",
+    "center_name" : "Moringa School",
+    "center_location" : "Ngong Ln, Nairobi",
+    "longitude" : "36.7896283",
+    "latitude" : "-1.3010663",
+    "center_image" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiPy67w9qTXAhVHBBoKHbo6CYYQjRwIBw&url=http%3A%2F%2Fwww.capitalfm.co.ke%2Fbusiness%2F2015%2F09%2Fmoringa-school-investing-in-the-next-kenyan-star-coders%2F&psig=AOvVaw04pV7azgvpV2X8kBmsCAac&ust=1509885141000158",
+    "center_number":"+254 792 825935"
+  },
+  {
+    "center_id" : "005",
+    "center_name" : "Nairobi Garage",
+    "center_location" : "Pinetree Plaza, Kaburu Drive / Ngong Road, Nairobi",
+    "longitude" : "36.7930148",
+    "latitude" : "-1.2981538",
+    "center_image" : "http://disrupt-africa.com/wp-content/uploads/2015/09/gararge.jpg",
+    "center_number":"+254 20 2733690"
+  }
+]

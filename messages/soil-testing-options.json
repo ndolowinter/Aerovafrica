@@ -1,0 +1,10 @@
+{
+  "text": "I can help you either on how to do soil testing or locate the nearby soil testing center",
+  "quick_replies": [{
+    "content_type": "text",
+    "title": "do soil testing",
+    "payload": "DO_SOIL_TESTING_PAYLOAD"
+  }, {
+    "content_type": "location"
+  }]
+}
